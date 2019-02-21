@@ -25,7 +25,7 @@ import io.swagger.jaxrs.PATCH;
  */
 @Path("/")
 //@Api(value = "/", description = "")
-public interface CallerSetupApi  
+public interface CallerSetupApi{ 
 
     @GET
     @Path("/")
