@@ -14,7 +14,7 @@ public class CallerSetupRequestProcessor implements Processor{
 		String mobileNo = exchange.getIn().getBody(String.class);
 
 		Logger logger=Logger.getLogger(CallerSetupRequestProcessor.class);
-				CallerSetupResponse response =ServiceImpl.getResponse(mobileNo);
+				CallerSetupResponse response=null; //=ServiceImpl.getResponse(mobileNo);
         
 		System.out.println("Response is::" +response);
 		

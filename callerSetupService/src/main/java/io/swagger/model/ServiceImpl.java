@@ -1,5 +1,5 @@
 package io.swagger.model;
-import java.sql.Connection;
+/*import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -16,8 +16,8 @@ import javax.sql.DataSource;
 import org.springframework.context.support.StaticApplicationContext;
 
 import oracle.jdbc.pool.OracleDataSource;
-import io.swagger.model.CallerSetupResponse;
-public class ServiceImpl {
+import io.swagger.model.CallerSetupResponse;*/
+public class ServiceImpl {/*
 	public static DataSource getOracleDataSource()
 	{
 		OracleDataSource oracleDS = null;
@@ -173,7 +173,7 @@ public class ServiceImpl {
 		{
 			return txt;
 		}
-	}
+	}*/
 }
 
 
