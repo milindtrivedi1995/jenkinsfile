@@ -15,7 +15,7 @@ import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponses;
 import io.swagger.annotations.ApiResponse;
-import io.swagger.jaxrs.PATCH;
+//import io.swagger.jaxrs.PATCH;*/
 
 /**
  * Aegon Life caller details
