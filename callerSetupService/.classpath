@@ -59,5 +59,6 @@
 	<classpathentry kind="lib" path="E:/Bangalore/JARS/ojdbc14-10.2.0.2.0.jar"/>
 	<classpathentry kind="lib" path="E:/Bangalore/JARS/swagger-jaxrs-1.5.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Bangalore/JARS/junit-4.12.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
