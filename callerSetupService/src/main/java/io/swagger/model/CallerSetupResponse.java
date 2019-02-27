@@ -1,4 +1,5 @@
 package io.swagger.model;
+import org.junit.*;
 
 import io.swagger.model.PolicyLst;
 import java.util.ArrayList;
