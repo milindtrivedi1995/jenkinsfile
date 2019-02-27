@@ -2,7 +2,7 @@ package com.india.aegonPartner.beans;
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.apache.log4j.Logger;
-import org.junit.*;
+import org.junit.Test;
 
 
 import io.swagger.model.CallerSetupResponse;
