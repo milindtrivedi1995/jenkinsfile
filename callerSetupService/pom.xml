@@ -18,6 +18,9 @@
       <artifactId>camel-cxf</artifactId>
       <version>2.15.1.redhat-621084</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc14 -->
+
+    
     <dependency>
       <groupId>io.swagger</groupId>
       <artifactId>swagger-annotations</artifactId>
@@ -151,7 +154,7 @@
             <Bundle-SymbolicName>CallerSetup_v6</Bundle-SymbolicName>
             <Private-Package>com.india.aegonPartner.CallerSetup_v6.*</Private-Package>
             <Import-Package>*;resolution:=optional</Import-Package>
-<!--             <Embed-Dependency>ojdbc14</Embed-Dependency> -->
+			<Embed-Dependency>ojdbc14</Embed-Dependency>
           </instructions>
         </configuration>
       </plugin>
