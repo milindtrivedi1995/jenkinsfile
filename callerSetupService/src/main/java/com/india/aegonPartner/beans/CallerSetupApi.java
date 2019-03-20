@@ -31,7 +31,7 @@ public interface CallerSetupApi{
     @GET
     @Path("/")
     @Produces({ "application/json" })
-    //@ApiOperation(value = "", tags={  })
+    
    /* @ApiResponses(value = { 
         @ApiResponse(code = 200, message = "Successful operation", response = CallerSetupResponse.class),
         @ApiResponse(code = 401, message = "Access Denied"),
